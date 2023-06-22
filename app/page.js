@@ -72,10 +72,7 @@ export default function Home() {
             />
           </Link>
           <a href={"/resume/Resume_Om_priya.pdf"} download>
-            <button
-              size={50}
-              className="p-2 rounded-2xl border-2 hover:bg-[#884A39] hover:text-white"
-            >
+            <button className="p-2 rounded-2xl border-2 hover:bg-[#884A39] hover:text-white">
               Download CV
             </button>
           </a>
