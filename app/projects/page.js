@@ -32,7 +32,7 @@ const page = () => {
           Projects
         </h1>
       </div>
-      <div className="flex flex-wrap justify-evenly">
+      <div className="flex flex-col flex-wrap sm:flex-row justify-evenly items-center min-w-full">
         {objs.map((obj) => {
           return (
             <ProjectCard

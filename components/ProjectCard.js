@@ -1,7 +1,7 @@
 import Image from "next/image";
 const ProjectCard = ({ img_url, title, description, link, live }) => {
   return (
-    <section className="flex flex-col items-center max-w-[40vw] border-2 justify-evenly m-4 shadow-xl hover:scale-105">
+    <section className="flex flex-col items-center max-w-[380px] border-2 justify-evenly m-4 shadow-xl hover:scale-105">
       <div className="p-2">
         <Image
           src={img_url}
