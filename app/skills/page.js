@@ -1,7 +1,8 @@
 import SkillCard from "@/components/SkillCard";
 export const metadata = {
   title: "Skills Page",
-  description: "This showcases",
+  description:
+    "This showcases different technologies that i have worked on and have knowledge about it",
 };
 const obj = [
   {

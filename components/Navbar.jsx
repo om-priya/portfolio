@@ -14,7 +14,7 @@ const Navbar = () => {
         <div className="flex items-center gap-2">
           <BsFire size={30} color="red" />
           <Link href={"/"}>
-            <h1 className="text-2xl font-semibold hover:scale-110 hover:text-red-500">
+            <h1 className="text-2xl font-semibold hover:scale-110 hover:text-[#884A39]">
               Om Priya
             </h1>
           </Link>
@@ -27,7 +27,7 @@ const Navbar = () => {
         {/* Navbar for big screens */}
         <nav className="hidden sm:inline-block">
           <ul className="font-medium space-x-3">
-            <Link className="hover:border-b-2 hover:scale-110" href={"/"}>
+            <Link className="hover:border-b-2" href={"/"}>
               Home
             </Link>
             <Link className="hover:border-b-2 hover:scale-110" href={"/about"}>

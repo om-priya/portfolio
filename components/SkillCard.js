@@ -1,7 +1,7 @@
 import Image from "next/image";
 const SkillCard = ({ url, text, name }) => {
   return (
-    <section className="flex flex-col items-center min-w-[20vw] border-2 justify-evenly m-4 shadow-xl">
+    <section className="flex flex-col items-center min-w-[20vw] border-2 justify-evenly m-4 shadow-xl hover:scale-105">
       <div className="p-2">
         <Image
           src={url}
