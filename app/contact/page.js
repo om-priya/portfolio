@@ -1,9 +1,5 @@
 "use client";
 import { useState } from "react";
-export const metadata = {
-  title: "Contact Page",
-  description: "Contact me through this page",
-};
 
 const page = () => {
   const [name, setName] = useState("");
