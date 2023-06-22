@@ -13,11 +13,11 @@ const page = () => {
           height="400"
         />
       </div>
-      <div className="max-w-[40vw]">
+      <div className="sm:max-w-[40vw] max-w-full">
         <h1 className="text-5xl font-bold mb-2 text-center">
           About <span className="text-[#884A39]">Me</span>
         </h1>
-        <div>
+        <div className="min-w-fit p-2">
           <p className="text-justify mb-2">
             As a web developer, I am dedicated to creating dynamic and
             responsive websites that provide a seamless user experience. I have
