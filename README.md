@@ -1,34 +1,78 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# OM PRIYA (Portfolio Website)
 
-## Getting Started
+<p align="justify">This website is designed by me which showcase all my work and different technologies that I've worked upon. It also mentions my important projects and different ways to reach/contact me.</p>
 
-First, run the development server:
+# Images:
+<div align="center">
+<img src="./public/images/home-desktop.png">
+<img src="./public/images/skills-desktop.png">
+<img src="./public/images/projects-desktop.png">
+<img src="./public/images/form-desktop.png">
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+# Responsive Design:
+<div align="center">
+<img src="./public/images/home-mobile.png">
+<img src="./public/images/navbar-mobile.png">
+<img src="./public/images/skills-mobile.png">
+</div>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# TECH STACK USED:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Framework: [Next.js](https://nextjs.org/)
+- CSS Framework: [Tailwind CSS](https://tailwindcss.com/)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Next.js
 
-## Learn More
+Next.js is a popular React framework for building server-side rendered (SSR) and static websites. It provides a great developer experience with features like automatic code splitting, server-side rendering, and static site generation.
 
-To learn more about Next.js, take a look at the following resources:
+With Next.js, you can easily create dynamic web applications and take advantage of powerful optimizations like incremental static regeneration and automatic caching.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Learn more about Next.js [here](https://nextjs.org/).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Tailwind CSS
 
-## Deploy on Vercel
+Tailwind CSS is a highly customizable CSS framework that provides a utility-first approach to styling. It allows you to rapidly build modern, responsive interfaces by composing small utility classes.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+With Tailwind CSS, you can easily create and maintain consistent designs across your application. It provides a wide range of pre-built utility classes for styling elements, responsive layouts, and more.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Learn more about Tailwind CSS [here](https://tailwindcss.com/).
+
+# Deployed on Vercel:
+<div align="left">
+<p>The Website had been deployed on vercel platform</p><a href="https://om-portfolio-fawn.vercel.app/">Live Demo</a>
+</div>
+
+<br>
+
+
+# Installation
+
+To install the code from this GitHub repository, follow the steps below:
+
+1. Clone the repository using Git:
+
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   ```
+    Replace your-username with your GitHub username and your-repository with the name of the repository you want to clone.
+
+2. Navigate to the project directory:
+   ```bash
+   cd your-repository
+   ```
+   Change directory to the cloned repository.
+
+3. Install any required dependencies:
+   ```bash
+   # Using npm
+    npm install
+
+    # Using yarn
+    yarn install
+
+   ```
+   This command will install any necessary dependencies for the project. Make sure you have Node.js and the package manager (npm or yarn) installed on your system.
+
+4. Start using the code:
+   You can now start using the code from the repository according to the project's documentation or instructions. Refer to any provided README or documentation files for more information. 
