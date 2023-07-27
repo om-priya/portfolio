@@ -6,22 +6,22 @@ const objs = [
     title: "OPFLIX",
     description: "Your one stop destination for all the web-series and movies",
     link: "https://github.com/om-priya/opFlix",
-    live: "#",
+    live: "https://op-flix.vercel.app/",
   },
   {
     img_url: "/projects/youtube_clone.png",
     title: "YOUTUBE CLONE",
     description: "UI/UX of youtube with RAPID API(youtube-clone)",
-    link: "#",
-    live: "#",
+    link: "https://github.com/om-priya/youtube-clone",
+    live: "https://youtube-clone-seven-phi.vercel.app/",
   },
   {
     img_url: "/projects/portfolio.png",
     title: "Portfolio Website",
     description:
       "A platform to showcase my skill and passion towards web-development",
-    link: "#",
-    live: "#",
+    link: "https://github.com/om-priya/portfolio",
+    live: "https://om-portfolio-fawn.vercel.app/",
   },
 ];
 const page = () => {
